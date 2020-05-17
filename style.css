@@ -129,6 +129,7 @@ nav .option.active {
 
 .anime-list .anime-entry .anilist-icon {
     width: 30px;
+    margin-top: 20px;
     height: auto;
     margin-right: 10px;
 }

@@ -1,5 +1,3 @@
-var car = {type:"Fiat", model:"500", color:"white"};
-
 let shows = [
     {
         title:"Higurashi No Naku Koro Ni",

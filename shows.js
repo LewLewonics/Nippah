@@ -11,7 +11,7 @@ let shows = [
     },
     
     {
-        title:"Yesterday wo Uttate",
+        title:"Sing 'Yesterday' For Me",
         episodes:18,
         current_episode: 7,
         image:"images/shows/Yesterday-wo-Uttate.jpg",
@@ -56,15 +56,6 @@ let shows = [
     },
 
     {
-        title:"Dennou Coil",
-        episodes:24,
-        current_episode: 12,
-        image:"images/shows/dennou_coil.jpg",
-        status:"watching",
-        initial_display:""
-    },
-
-    {
         title:"My Next Life as a Villainess",
         episodes:12,
         current_episode: 7,
@@ -81,4 +72,22 @@ let shows = [
         status:"finished",
         initial_display:"inactive"
     },
+
+    {
+        title:"Ride Your Wave",
+        episodes:1,
+        current_episode: 1,
+        image:"images/shows/ride_your_wave.jpg",
+        status:"finished",
+        initial_display:"inactive"
+    },
+
+    {
+        title:"Yona of the Dawn",
+        episodes:24,
+        current_episode: 24,
+        image:"images/shows/yona.jpg",
+        status:"finished",
+        initial_display:"inactive"
+    }
 ];

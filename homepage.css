@@ -99,8 +99,8 @@ nav img {
     background: var(--color-4);
     border-radius: 6px;
     height: 250px;
-    width: 50%;
-    left: 25%;
+    width: 95%;
+    left: 2.5%;
     padding: 15px;
     margin-top: 35px;
     display: flex;

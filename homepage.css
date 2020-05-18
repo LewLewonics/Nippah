@@ -138,6 +138,7 @@ nav img {
 
 .category h1 {
     position: absolute;
+    margin-top: -5px;
     color: var(--color-1);
     /* background: rgba(0,0,0,0.2); */
 }

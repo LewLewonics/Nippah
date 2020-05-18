@@ -11,6 +11,15 @@ let shows = [
     },
     
     {
+        title:"Higurashi No Naku Koro Ni Kai",
+        episodes:26,
+        current_episode: 26,
+        image:"images/shows/higurash_kai.jpg",
+        status:"finished",
+        initial_display:"inactive"
+    },
+
+    {
         title:"Sing 'Yesterday' For Me",
         episodes:18,
         current_episode: 7,
@@ -65,15 +74,6 @@ let shows = [
     },
 
     {
-        title:"Higurashi No Naku Koro Ni Kai",
-        episodes:26,
-        current_episode: 26,
-        image:"images/shows/higurash_kai.jpg",
-        status:"finished",
-        initial_display:"inactive"
-    },
-
-    {
         title:"Ride Your Wave",
         episodes:1,
         current_episode: 1,
@@ -87,6 +87,33 @@ let shows = [
         episodes:24,
         current_episode: 24,
         image:"images/shows/yona.jpg",
+        status:"finished",
+        initial_display:"inactive"
+    },
+
+    {
+        title:"Stars Align!",
+        episodes:12,
+        current_episode: 12,
+        image:"images/shows/stars_align.jpg",
+        status:"finished",
+        initial_display:"inactive"
+    },
+
+    {
+        title:"Letter to Momo",
+        episodes:1,
+        current_episode: 1,
+        image:"images/shows/momo.jpg",
+        status:"finished",
+        initial_display:"inactive"
+    },
+
+    {
+        title:"Love Lab",
+        episodes:13,
+        current_episode: 13,
+        image:"images/shows/love_lab.jpg",
         status:"finished",
         initial_display:"inactive"
     }

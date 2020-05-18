@@ -97,3 +97,4 @@ nav_watching.addEventListener('click', show_watching);
 nav_finished.addEventListener('click', show_finished);
 
 load_shows();
+colorize_list();

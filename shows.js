@@ -5,7 +5,8 @@ let shows = [
         current_episode: 26,
         image:"images/shows/higurashi_no_naku_koro_ni.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/934/When-They-Cry/"
     },
     
     {
@@ -14,7 +15,8 @@ let shows = [
         current_episode: 26,
         image:"images/shows/higurash_kai.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/1889/When-They-Cry-Kai/"
     },
 
     {
@@ -23,7 +25,8 @@ let shows = [
         current_episode: 7,
         image:"images/shows/Yesterday-wo-Uttate.jpg",
         status:"watching",
-        initial_display:""
+        initial_display:"",
+        anilist: "https://anilist.co/anime/109020/SING-YESTERDAY-FOR-ME/"
     },
 
     {
@@ -32,7 +35,8 @@ let shows = [
         current_episode: 13,
         image:"images/shows/another.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/11111/Another/"
     },
 
     {
@@ -41,7 +45,8 @@ let shows = [
         current_episode: 13,
         image:"images/shows/white_albumn_2.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/18245/White-Album-2/"
     },
 
     {
@@ -50,7 +55,8 @@ let shows = [
         current_episode: 24,
         image:"images/shows/chihayafuru.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/101215/Chihayafuru-3/"
     },
 
     {
@@ -59,7 +65,8 @@ let shows = [
         current_episode: 12,
         image:"images/shows/dennou_coil.jpg",
         status:"watching",
-        initial_display:""
+        initial_display:"",
+        anilist: "https://anilist.co/anime/2164/Dennoh-Coil/"
     },
 
     {
@@ -68,7 +75,8 @@ let shows = [
         current_episode: 7,
         image:"images/shows/otome.jpg",
         status:"watching",
-        initial_display:""
+        initial_display:"",
+        anilist: "https://anilist.co/anime/104647/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom/"
     },
 
     {
@@ -77,7 +85,8 @@ let shows = [
         current_episode: 1,
         image:"images/shows/ride_your_wave.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/105018/Ride-Your-Wave/"
     },
 
     {
@@ -86,7 +95,8 @@ let shows = [
         current_episode: 24,
         image:"images/shows/yona.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/20770/Yona-of-the-Dawn/"
     },
 
     {
@@ -95,7 +105,8 @@ let shows = [
         current_episode: 12,
         image:"images/shows/stars_align.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/104052/Stars-Align/"
     },
 
     {
@@ -104,7 +115,8 @@ let shows = [
         current_episode: 1,
         image:"images/shows/momo.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/10389/A-Letter-to-Momo/"
     },
 
     {
@@ -113,6 +125,7 @@ let shows = [
         current_episode: 13,
         image:"images/shows/love_lab.jpg",
         status:"finished",
-        initial_display:"inactive"
+        initial_display:"inactive",
+        anilist: "https://anilist.co/anime/16353/Love-Lab/"
     }
 ];

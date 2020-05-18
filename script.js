@@ -14,7 +14,7 @@ function load_shows() {
             <div class="anime-title">${show.title}</div>
 
             <div class="extras">
-                <img src="images/anilist_icon.svg" alt="" class="anilist-icon">
+                <a href="${show.anilist}"><img src="images/anilist_icon.svg" alt="" class="anilist-icon"></a>
                 <div class="episode-count">${show.current_episode}/${show.episodes}</div>
             </div>
         </div>

@@ -73,6 +73,10 @@ nav a:visited {
     color: var(--color-1);
 }
 
+nav a {
+    color: var(--color-1);
+}
+
 .anime-list {
     font-family: 'Nunito', Roboto, sans-serif;
     margin-top: 20px;

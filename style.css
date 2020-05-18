@@ -139,3 +139,7 @@ nav .option.active {
     margin-top: 20px;
     font-size: 1.2em;   
 }
+
+.anime-list .anime-entry.inactive {
+    display: none;
+}

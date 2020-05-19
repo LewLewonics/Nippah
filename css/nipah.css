@@ -71,21 +71,18 @@ nav img {
     left: 0;
 }
 
-nav i {
-    background: var(--color-1);
-}
-
-.anime-list .anime-entry .cover-area .anime-cover-container {
+.image-container {
     position: relative;
     display: inline-block;
-    width: 100%;
-    height: 100%;
+    width: 24.5%;
+    height: 150px;
 }
 
-.anime-list .anime-entry .cover-area .anime-cover {
+.image-container img {
     object-fit: cover;
     object-position: center;
     width: 100%;
     height: 100%;
     border-radius: 6px;
 }
+ 

@@ -11,14 +11,17 @@
 <body>
     <div class="container">
         <nav class='nav-bar'>
-            <span style="font-size: 3em; color: var(--color-1);">
-                <a href="index.html"><i class="fa fa-angle-left"></i></a>
-            </span>
-            <a href="#" class="option active" id="watching">watching</a>
-            <a href="#" class="option" id="finished">finished</a>            
+            <img src='images/nipah.png' height="45px" width='auto'>
+            <a href="index.html" class="option active">nipah ~</a>
         </nav>
-        <div class="images_container"></div>
+        <div id="images_container"></div>
+        <audio id="myAudio" autoplay="true">
+            <source src="nipah.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+          </audio>
     </div>
+
+    <script src="js/nipah.js"></script>
 </body>
 </html>
 

@@ -15,7 +15,7 @@ function load_shows() {
 
             <div class="extras">
                 <a href="${show.anilist}"><img src="images/anilist_icon.svg" alt="" class="anilist-icon"></a>
-                <div class="episode-count">${show.current_episode}/${show.episodes}</div>
+                <a href="${show.link}${show.current_episode}" class="episode-count">${show.current_episode}/${show.episodes}</a>
             </div>
         </div>
     `

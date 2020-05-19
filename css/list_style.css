@@ -69,12 +69,13 @@ nav .fa.fa-angle-left:hover {
     cursor: pointer;
 }
 
-nav a:visited {
+a:visited {
     color: var(--color-1);
 }
 
-nav a {
+a {
     color: var(--color-1);
+    text-decoration: none;
 }
 
 .anime-list {

@@ -22,11 +22,12 @@ let shows = [
     {
         title:"Sing 'Yesterday' For Me",
         episodes:18,
-        current_episode: 7,
+        current_episode: 8,
         image:"images/shows/Yesterday-wo-Uttate.jpg",
         status:"watching",
         initial_display:"",
-        anilist: "https://anilist.co/anime/109020/SING-YESTERDAY-FOR-ME/"
+        anilist: "https://anilist.co/anime/109020/SING-YESTERDAY-FOR-ME/",
+        link: "https://4anime.to/yesterday-wo-utatte-episode-0"
     },
 
     {
@@ -66,17 +67,19 @@ let shows = [
         image:"images/shows/dennou_coil.jpg",
         status:"watching",
         initial_display:"",
-        anilist: "https://anilist.co/anime/2164/Dennoh-Coil/"
+        anilist: "https://anilist.co/anime/2164/Dennoh-Coil/",
+        link: "https://4anime.to/dennou-coil-episode-"
     },
 
     {
         title:"My Next Life as a Villainess",
         episodes:12,
-        current_episode: 7,
+        current_episode: 8,
         image:"images/shows/otome.jpg",
         status:"watching",
         initial_display:"",
-        anilist: "https://anilist.co/anime/104647/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom/"
+        anilist: "https://anilist.co/anime/104647/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom/",
+        link: "https://4anime.to/hamefura-episode-0"
     },
 
     {

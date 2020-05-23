@@ -1,6 +1,16 @@
 const nav_watching = document.getElementById('watching');
 const nav_finished = document.getElementById('finished');
 
+function sort_shows() {
+    shows.sort((show1, show2) => {
+        if (show1.title > show2.title) {
+            return 1;
+        } else {
+            return -1;
+        }
+    });
+}
+
 function load_shows() {
     shows.forEach(show => {
         document.getElementById('anime-list').innerHTML += `
@@ -96,5 +106,6 @@ function colorize_list() {
 nav_watching.addEventListener('click', show_watching);
 nav_finished.addEventListener('click', show_finished);
 
+sort_shows();
 load_shows();
 colorize_list();

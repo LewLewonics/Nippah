@@ -130,5 +130,23 @@ let shows = [
         status:"finished",
         initial_display:"inactive",
         anilist: "https://anilist.co/anime/16353/Love-Lab/"
+    },
+    
+    {
+        title:"Revolutionary Girl Utena",
+        episodes:39,
+        current_episode: 1,
+        image:"images/shows/utena.jpg",
+        status:"watching",
+        initial_display:"",
+        anilist: "https://anilist.co/anime/440/Revolutionary-Girl-Utena/" 
     }
 ];
+
+
+
+
+
+
+
+

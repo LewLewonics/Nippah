@@ -63,7 +63,7 @@ let shows = [
     {
         title:"Dennou Coil",
         episodes:24,
-        current_episode: 18,
+        current_episode: 19,
         image:"images/shows/dennou_coil.jpg",
         status:"watching",
         initial_display:"",

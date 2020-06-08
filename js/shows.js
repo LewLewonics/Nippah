@@ -27,7 +27,7 @@ let shows = [
         status:"watching",
         initial_display:"",
         anilist: "https://anilist.co/anime/109020/SING-YESTERDAY-FOR-ME/",
-        link: "https://4anime.to/yesterday-wo-utatte-episode-0"
+        link: "https://4anime.to/yesterday-wo-utatte-episode-"
     },
 
     {
@@ -79,7 +79,7 @@ let shows = [
         status:"watching",
         initial_display:"",
         anilist: "https://anilist.co/anime/104647/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom/",
-        link: "https://4anime.to/hamefura-episode-0"
+        link: "https://4anime.to/hamefura-episode-"
     },
 
     {

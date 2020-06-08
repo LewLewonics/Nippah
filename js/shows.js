@@ -22,7 +22,7 @@ let shows = [
     {
         title:"Sing 'Yesterday' For Me",
         episodes:18,
-        current_episode: 10,
+        current_episode: 11,
         image:"images/shows/Yesterday-wo-Uttate.jpg",
         status:"watching",
         initial_display:"",
@@ -63,7 +63,7 @@ let shows = [
     {
         title:"Dennou Coil",
         episodes:26,
-        current_episode: 21,
+        current_episode: 24,
         image:"images/shows/dennou_coil.jpg",
         status:"watching",
         initial_display:"",
@@ -74,7 +74,7 @@ let shows = [
     {
         title:"My Next Life as a Villainess",
         episodes:12,
-        current_episode: 10,
+        current_episode: 11,
         image:"images/shows/otome.jpg",
         status:"watching",
         initial_display:"",

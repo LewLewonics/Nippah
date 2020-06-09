@@ -65,7 +65,7 @@ let shows = [
         episodes:26,
         current_episode: 26,
         image:"images/shows/dennou_coil.jpg",
-        status:"complete",
+        status:"finished",
         initial_display:"inactive",
         anilist: "https://anilist.co/anime/2164/Dennoh-Coil/",
         link: "https://4anime.to/dennou-coil-episode-"

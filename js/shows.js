@@ -63,9 +63,9 @@ let shows = [
     {
         title:"Dennou Coil",
         episodes:26,
-        current_episode: 24,
+        current_episode: 26,
         image:"images/shows/dennou_coil.jpg",
-        status:"watching",
+        status:"complete",
         initial_display:"",
         anilist: "https://anilist.co/anime/2164/Dennoh-Coil/",
         link: "https://4anime.to/dennou-coil-episode-"

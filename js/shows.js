@@ -25,7 +25,7 @@ let shows = [
         current_episode: 12,
         image:"images/shows/Yesterday-wo-Uttate.jpg",
         status:"finished",
-        initial_display:"",
+        initial_display:"inactive",
         anilist: "https://anilist.co/anime/109020/SING-YESTERDAY-FOR-ME/",
         link: "https://4anime.to/yesterday-wo-utatte-episode-"
     },
@@ -77,7 +77,7 @@ let shows = [
         current_episode: 12,
         image:"images/shows/otome.jpg",
         status:"finished",
-        initial_display:"",
+        initial_display:"inactive",
         anilist: "https://anilist.co/anime/104647/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom/",
         link: "https://4anime.to/hamefura-episode-"
     },

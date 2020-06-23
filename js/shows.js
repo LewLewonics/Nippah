@@ -21,10 +21,10 @@ let shows = [
 
     {
         title:"Sing 'Yesterday' For Me",
-        episodes:18,
+        episodes:12,
         current_episode: 12,
         image:"images/shows/Yesterday-wo-Uttate.jpg",
-        status:"watching",
+        status:"finished",
         initial_display:"",
         anilist: "https://anilist.co/anime/109020/SING-YESTERDAY-FOR-ME/",
         link: "https://4anime.to/yesterday-wo-utatte-episode-"
@@ -76,7 +76,7 @@ let shows = [
         episodes:12,
         current_episode: 12,
         image:"images/shows/otome.jpg",
-        status:"watching",
+        status:"finished",
         initial_display:"",
         anilist: "https://anilist.co/anime/104647/My-Next-Life-as-a-Villainess-All-Routes-Lead-to-Doom/",
         link: "https://4anime.to/hamefura-episode-"
@@ -135,7 +135,7 @@ let shows = [
     {
         title:"Revolutionary Girl Utena",
         episodes:39,
-        current_episode: 5,
+        current_episode: 7,
         image:"images/shows/utena.jpg",
         status:"watching",
         initial_display:"",

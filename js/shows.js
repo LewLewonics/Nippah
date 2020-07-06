@@ -135,7 +135,7 @@ let shows = [
     {
         title:"Revolutionary Girl Utena",
         episodes:39,
-        current_episode: 15,
+        current_episode: 17,
         image:"images/shows/utena.jpg",
         status:"watching",
         initial_display:"",

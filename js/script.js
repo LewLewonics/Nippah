@@ -17,11 +17,11 @@ function load_shows() {
         <div class="anime-entry ${show.status} ${show.initial_display}">
             <div class="cover-area">
                 <div class="anime-cover-container">
-                    <img src="${show.image}" alt="" class="anime-cover">
+                    <a href='${show.anilist}'><img src="${show.image}" alt="" class="anime-cover"></a>
                 </div>
             </div>
 
-            <div class="anime-title">${show.title}</div>
+            <a href='${show.anilist}'><div class="anime-title">${show.title}</div></a>
 
             <div class="extras">
                 <a href="${show.anilist}"><img src="images/anilist_icon.svg" alt="" class="anilist-icon"></a>

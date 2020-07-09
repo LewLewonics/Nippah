@@ -88,22 +88,25 @@ nav img {
     text-align: center;
     color: var(--color-1);
     background: var(--color-4);
+    border: 3px solid var(--color-3);
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 25px;
     border-radius: 6px;
     padding: 8px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
-.list {
+.list.outerBox {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
     position: relative;
     margin: 0 auto;
     margin-top: 60px;
     border-radius: 8px;
     width: 70%;
     height: 60px;
-    background: darkslategrey;
+    background: var(--color-4);
 
 }
 

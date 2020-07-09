@@ -29,7 +29,7 @@ body {
     right: 0;
     left: 0;
     bottom: 0;
-    background-image: url('http://images5.fanpop.com/image/photos/31700000/Higurashi-no-naku-koro-ni-fandoms-31712412-1680-1050.jpg');
+    background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;    
 }

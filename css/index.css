@@ -15,7 +15,7 @@
 }
 
 body {
-    background-image: url('../images/background.jpg');
+    background-image: url('../images/rikaBackground.jpg');
     background-repeat: none;
     background-size: cover;
     display: flex;
@@ -34,7 +34,6 @@ body {
 
 img.background {
     position: fixed;
-    /* margin-left: 405px; */
     right: 0;
     bottom: 0;
     width: 300px;

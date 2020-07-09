@@ -1,3 +1,14 @@
+/* 
+    EXAMPLE for currently watching
+        title:"Revolutionary Girl Utena",
+        episodes:39,
+        current_episode: 19,
+        image:"images/shows/utena.jpg",
+        status:"watching",
+        initial_display:"",
+        anilist: "https://anilist.co/anime/440/Revolutionary-Girl-Utena/"
+*/
+
 let shows = [
     {
         title:"Higurashi No Naku Koro Ni",
@@ -140,6 +151,16 @@ let shows = [
         status:"watching",
         initial_display:"",
         anilist: "https://anilist.co/anime/440/Revolutionary-Girl-Utena/" 
+    },
+
+    {
+        title:"God of Highschool",
+        episodes: 13,
+        current_episode: 2,
+        image:"images/shows/god_of_highschool.jpg",
+        status:"watching",
+        initial_display:"",
+        anilist: "https://anilist.co/anime/116006/The-God-of-High-School"
     }
 ];
 

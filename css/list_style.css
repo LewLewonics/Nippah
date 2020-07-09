@@ -15,12 +15,23 @@
 }
 
 body {
-    background-image: url('http://images5.fanpop.com/image/photos/31700000/Higurashi-no-naku-koro-ni-fandoms-31712412-1680-1050.jpg');
-    background-repeat: none;
-    background-size: cover;    display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;
+}
+
+.bodyBackground {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-image: url('http://images5.fanpop.com/image/photos/31700000/Higurashi-no-naku-koro-ni-fandoms-31712412-1680-1050.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;    
 }
 
 .container {

@@ -15,8 +15,9 @@
 }
 
 body {
-    background-color: darkslategrey;
-    display: flex;
+    background-image: url('http://images5.fanpop.com/image/photos/31700000/Higurashi-no-naku-koro-ni-fandoms-31712412-1680-1050.jpg');
+    background-repeat: none;
+    background-size: cover;    display: flex;
     align-items: center;
     justify-content: center;
     margin: 0;

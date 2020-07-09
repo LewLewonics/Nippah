@@ -41,7 +41,7 @@ img.background {
 
 nav {
     font-family: sans-serif;
-    font-weight: bold;
+    font-weight: 600px;
 
     background-color: var(--color-4);
     position: sticky;
@@ -82,7 +82,7 @@ a {
 }
 
 .anime-list {
-    font-family: 'Nunito', Roboto, sans-serif;
+    font-family: 'Balsamiq Sans', cursive;    
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;

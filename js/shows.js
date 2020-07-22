@@ -2,7 +2,7 @@
     EXAMPLE for currently watching
         title:"Revolutionary Girl Utena",
         episodes:39,
-        current_episode: 19,
+        current_episode: 23,
         image:"images/shows/utena.jpg",
         status:"watching",
         initial_display:"",
@@ -146,7 +146,7 @@ let shows = [
     {
         title:"Revolutionary Girl Utena",
         episodes:39,
-        current_episode: 19,
+        current_episode: 23,
         image:"images/shows/utena.jpg",
         status:"watching",
         initial_display:"",
@@ -156,7 +156,7 @@ let shows = [
     {
         title:"God of Highschool",
         episodes: 13,
-        current_episode: 2,
+        current_episode: 4,
         image:"images/shows/god_of_highschool.jpg",
         status:"watching",
         initial_display:"",
